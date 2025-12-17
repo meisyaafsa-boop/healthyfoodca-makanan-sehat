@@ -52,7 +52,7 @@ document.getElementById("orderForm").addEventListener("submit", function (e) {
 Terima kasih! 😊`;
 
   // Buka WhatsApp
-  const waUrl = `https://wa.me/6281234567890?text=${encodeURIComponent(
+  const waUrl = `https://wa.me/6283119718778?text=${encodeURIComponent(
     message
   )}`;
   window.open(waUrl, "_blank");
@@ -96,3 +96,4 @@ window.addEventListener("scroll", function () {
     }
   });
 });
+
